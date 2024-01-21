@@ -20,7 +20,7 @@ def setup_seed(seed=3047):
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("--mode", default="test", choices=["train", "test"], type=str, dest="mode")
+parser.add_argument("--mode", default="train", choices=["train", "test"], type=str, dest="mode")
 parser.add_argument("--train_continue", default="off", choices=["on", "off"], type=str, dest="train_continue")
 parser.add_argument('--data_parallel', action='store_true')
 
@@ -30,7 +30,7 @@ parser.add_argument("--num_epoch", default=2000, type=int, dest="num_epoch")
 
 parser.add_argument("--data_dir", default="dataset", type=str, dest="data_dir")
 
-parser.add_argument("--ckpt_dir", default="./checkpoint_test", type=str, dest="ckpt_dir")
+parser.add_argument("--ckpt_dir", default="./checkpoint", type=str, dest="ckpt_dir")
 parser.add_argument("--log_dir", default="./log_test_0.1", type=str, dest="log_dir")
 parser.add_argument("--result_dir", default="./result_test_0.1", type=str, dest="result_dir")
 
