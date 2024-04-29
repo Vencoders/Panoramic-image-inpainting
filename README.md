@@ -1,9 +1,9 @@
 # Panoramic-image-inpainting
 
-This repository contains the implementation for the paper:
+This repository contains the implementation for the paper "PANORAMIC IMAGE INPAINTING WITH GATED CONVOLUTION AND CONTEXTUAL RECONSTRUCTION LOSS", presented in IEEE ICASSP 2024.
 
-PANORAMIC IMAGE INPAINTING WITH GATED CONVOLUTION AND CONTEXTUAL
-RECONSTRUCTION LOSS
+## Paper
+The paper is available on [IEEEXplore](https://ieeexplore.ieee.org/document/10446469). A preprint is available [here](https://arxiv.org/abs/2402.02936).
 
 ## **Environment**
 
@@ -33,6 +33,10 @@ We used SUN360 dataset in this work.
 提取码：gq22
 
 ## 
+
+## Project information
+This repository is associated with Work Package 2 (WP2) of the project [FALCON](https://www.tuni.fi/en/research/falcon). This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101022466.
+
 
 ## Author
 
