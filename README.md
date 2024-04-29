@@ -33,3 +33,9 @@ We used SUN360 dataset in this work.
 提取码：gq22
 
 ## 
+
+##Author
+Li Yu{li.yu@nuist.edu.cn}
+Yanjun Gao{20211221010@nuist.edu.cn}
+Farhad Pakdaman{farhad.pakdaman@gmail.com)}
+Moncef Gabbouj{moncef.gabbouj@tuni.fi}
