@@ -34,8 +34,12 @@ We used SUN360 dataset in this work.
 
 ## 
 
-##Author
-Li Yu{li.yu@nuist.edu.cn}
-Yanjun Gao{20211221010@nuist.edu.cn}
-Farhad Pakdaman{farhad.pakdaman@gmail.com)}
-Moncef Gabbouj{moncef.gabbouj@tuni.fi}
+## Author
+
+Li Yu {li.yu@nuist.edu.cn}
+
+Yanjun Gao {20211221010@nuist.edu.cn}
+
+Farhad Pakdaman {farhad.pakdaman@gmail.com)}
+
+Moncef Gabbouj {moncef.gabbouj@tuni.fi}
