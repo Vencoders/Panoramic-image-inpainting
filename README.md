@@ -44,6 +44,6 @@ Li Yu {li.yu@nuist.edu.cn}
 
 Yanjun Gao {20211221010@nuist.edu.cn}
 
-Farhad Pakdaman {farhad.pakdaman@gmail.com)}
+Farhad Pakdaman {farhad.pakdaman@tuni.fi)}
 
 Moncef Gabbouj {moncef.gabbouj@tuni.fi}
