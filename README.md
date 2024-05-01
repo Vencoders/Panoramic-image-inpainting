@@ -29,6 +29,7 @@ We used SUN360 dataset in this work.
 
 ## Models
 
+Pre-trained models can be [downloaded](https://zenodo.org/records/11099430/files/FALCON_ICASSP2024_WP2_V1.0.zip?download=1) through [Zenodo repository](https://zenodo.org/records/11099430). Another mirror link is available here：
 链接：https://pan.baidu.com/s/1iET5xJhily6D56ddguQ0Mw?pwd=gq22 
 提取码：gq22
 
